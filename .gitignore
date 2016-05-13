@@ -1,0 +1,4 @@
+# Ignore obj file
+*.o
+# Ignore bin file
+main
